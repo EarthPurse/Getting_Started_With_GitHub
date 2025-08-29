@@ -28,6 +28,9 @@
 ## Resources for pendulum questions
 [Inverted Pendulum](https://sciencedemonstrations.fas.harvard.edu/search?search=inverted%20pendulum)
 
-[p]( <img width="642" height="1389" alt="IMG_6329" src="https://github.com/user-attachments/assets/e3663f43-5bd3-462a-96fe-ce4039aa9f5d" /> )
+## Commit Change History
+![Commit History](https://github.com/EarthPurse/Getting_Started_With_GitHub/blob/main/IMG_6329.PNG)
+
+
 
 
