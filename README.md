@@ -13,8 +13,16 @@
     * Pendulum will experience high high frequency force
 
 ## If the pendulum is slightly displaced from equilibrium and the pivot point moves down abruptly, what will happen to the pendulum's displacement angle?
-  *
+  * The pendulum displacement angle will remain unchanged.
+    * The angle at the pivot point will move in a downward direction
+  * The amplitude of oscillation could increase because of a reduced restoring force
+    * Restoring force is weaker
 
 
 ## If we start the pendulum oriented above its pivot point, at its unstable equilibrium angle, if the pivot point moves down as the pendulum begins to fall, what is your expectation of the behavior?
+
+
+
+
+
 
