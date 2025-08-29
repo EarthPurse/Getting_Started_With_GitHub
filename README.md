@@ -25,7 +25,8 @@
   * The torque is weaker, causing the pendulum to have a slower fall, assuming the acceleration is downward.
   * Assuming there is free fall from the pivot point, there will be no torque, causing no rotation within the pendulum 
 
-
+## Resources for pendulum questions
+[Inverted Pendulum](https://sciencedemonstrations.fas.harvard.edu/search?search=inverted%20pendulum)
 
 
 
